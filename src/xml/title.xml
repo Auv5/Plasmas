@@ -1,0 +1,4 @@
+<phase class="TitleScreen" module="TitleScreen">
+  <Title caption="PLASMAS"/>
+  <Button caption="New Game"/>
+</phase>
